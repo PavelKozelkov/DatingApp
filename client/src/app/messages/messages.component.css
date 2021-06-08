@@ -1,0 +1,18 @@
+.btn-group{
+    width: auto;
+}
+/*.btn-danger{
+   color: black;
+   border-bottom: 1px solid red;
+}
+.btn-danger:hover{
+    color: white;
+ }*/
+ .btn-danger{
+     background-color: red;
+     border-bottom-color: red;
+     border-radius: 4px;
+ }
+.img-circle{
+    max-height: 50px;
+}
